@@ -1,3 +1,3 @@
 # Image Classification Site
 
-<img src="imgs/sample.gif" width="350" height="350">
+<img src="imgs/sample.gif" width="500" height="350">
