@@ -117,3 +117,4 @@ logs/
 # trained models 
 model_trained/
 
+run.py
