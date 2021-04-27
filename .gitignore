@@ -111,7 +111,6 @@ uploads/
 *.mp4
 helpers/
 *.json
-*.gif
 # all logs
 logs/
 
